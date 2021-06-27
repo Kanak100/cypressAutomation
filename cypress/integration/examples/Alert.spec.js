@@ -1,6 +1,6 @@
 describe('MyTestSuite', () => 
 {
-    it('Alert message check ', () => 
+    it('Alert message checkk ', () => 
     {
         /*cy.visit("https://mail.rediff.com/cgi-bin/login.cgi")
         cy.get("input[type=submit]").click() 
